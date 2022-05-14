@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0 -Wall -g2 -ggdb CMakeFiles/tiledb-xstore.dir/tiledb_xstore.cpp.o CMakeFiles/tiledb-xstore.dir/tiledb_util.cpp.o -o tiledb-xstore   -L/home/wyf/PROJECT/TileDB-v2.8.0/dist/lib  -Wl,-rpath,/home/wyf/PROJECT/TileDB-v2.8.0/dist/lib -ltiledb 

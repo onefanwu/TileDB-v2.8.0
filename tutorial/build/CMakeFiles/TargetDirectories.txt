@@ -1,0 +1,3 @@
+/home/wyf/PROJECT/X-Store/benchmark/TileDB/build/CMakeFiles/tiledb-xstore.dir
+/home/wyf/PROJECT/X-Store/benchmark/TileDB/build/CMakeFiles/edit_cache.dir
+/home/wyf/PROJECT/X-Store/benchmark/TileDB/build/CMakeFiles/rebuild_cache.dir
