@@ -34,3 +34,7 @@ CMakeUserPresets.json
 
 # x-store
 xstore/build/
+
+# doxygen
+html/
+latex/
